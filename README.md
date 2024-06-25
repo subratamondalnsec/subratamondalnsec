@@ -4,7 +4,7 @@ I'm currently learning data structures and algorithms. I am a MERN developer.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/subrata-mondal-9085b828a/)
-[![TWITTER](https://img.shields.io/badge/twitter-%230077B5.svg?logo=twitter&logoColor=white)]((https://x.com/Subrata7133))
+[![TWITTER](https://img.shields.io/badge/twitter-%230077B5.svg?logo=twitter&logoColor=white)](https://x.com/Subrata7133)
 
 
 # 💻 Tech Stack:
