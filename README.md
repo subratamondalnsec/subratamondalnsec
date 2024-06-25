@@ -16,9 +16,6 @@ I'm currently learning data structures and algorithms. I am a MERN developer.
 ![Chart.js](https://img.shields.io/badge/chart.js-%23404d59.svg?style=for-the-badge&logo=chart&logoColor=%2361DAFB)
 # 📊 GitHub Stats:
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=preetu391&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
