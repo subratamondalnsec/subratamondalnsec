@@ -1,5 +1,22 @@
+![MasterHead](https://www.digitalsolutionservices.com/img/services/web%20development.gif)
+<h1 align="center">Hi 👋, I'm Subrata Mondal </h1>
+
 # 💫 About Me:
-I'm currently learning data structures and algorithms. I am a MERN developer.
+
+<h3 align="center">A passionate developer and problem-solver from India</h3>
+<img align="right" alt="Coding" width="400" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif">
+
+- 🔭 I’m currently studying Engineering **(Department of Computer Science and Engineering)**
+
+- 🌱 I'm currently learning **data structures and algorithms**. I am a **MERN-Devloper**.
+
+- 👯 I’m looking to collaborate on **exciting projects!**
+
+- 💬 Ask me about **Technology**
+
+- 📫 How to reach me **subratamondal.cse2023@nsec.ac.in**
+
+- ⚡ Fun fact **I love tackling complex problems like puzzles—whether it's debugging code or solving a tricky algorithm, the thrill of finding the solution keeps me going!**
 
 
 ## 🌐 Socials:
