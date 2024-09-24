@@ -31,9 +31,7 @@
 ![TAILWIND CSS](https://img.shields.io/badge/tailwindcss-%23593d88.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23430098.svg?style=for-the-badge&logo=typescript&logoColor=white) 
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
-![Chart.js](https://img.shields.io/badge/chart.js-%23404d59.svg?style=for-the-badge&logo=chart&logoColor=%2361DAFB)
 # 📊 GitHub Stats:
 
 ### ✍️ Random Dev Quote
