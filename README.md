@@ -33,8 +33,12 @@
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
 # 📊 GitHub Stats:
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subratamondalnsec&hide_border=true&layout=compact" align="left" />  
+<img src="https://github-readme-stats.vercel.app/api?username=subratamondalnsec&show_icons=true&count_private=true&hide_border=true" align="center" />  
 
-### ✍️ Random Dev Quote
+
+
+## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 [![](https://visitcount.itsvg.in/api?id=subratamondalnsec&label=Profile%20Views&color=8&pretty=false)](https://visitcount.itsvg.in)
