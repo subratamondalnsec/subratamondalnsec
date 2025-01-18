@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently studying Engineering **(Department of Computer Science and Engineering)**
 
-- 🌱 I'm currently learning **data structures and algorithms**. I am a **MERN-Devloper**.
+- 🌱 I'm currently learning **data structures and algorithms**. I am a **Frontend-Devloper**.
 
 - 👯 I’m looking to collaborate on **exciting projects!**
 
@@ -22,6 +22,8 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/subrata-mondal-9085b828a/)
 [![TWITTER](https://img.shields.io/badge/TWITTER-%230077B5.svg?logo=twitter&logoColor=white)](https://x.com/Subrata7133)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/subrata24012005/)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=flat-square&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/subratamondal24/)
 
 
 # 💻 Tech Stack:
