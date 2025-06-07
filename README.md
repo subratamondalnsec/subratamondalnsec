@@ -37,7 +37,7 @@
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) 
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
-
+![React js](https://img.shields.io/badge/react-%2338B2AC.svg?style=for-the-badge&logo=react&logoColor=white) 
 
 # 📊 GitHub Stats:
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subratamondalnsec&hide_border=true&layout=compact" align="left" />  
