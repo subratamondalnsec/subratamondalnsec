@@ -37,17 +37,32 @@
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) 
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
+![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)
+![Green Sock](https://img.shields.io/badge/green%20sock-88CE02?style=for-the-badge&logo=greensock&logoColor=white)
+![TypeScript](https://img.shields.io/badge/Typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![React js](https://img.shields.io/badge/react-%2338B2AC.svg?style=for-the-badge&logo=react&logoColor=white) 
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) 
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
 
 # 📊 GitHub Stats:
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subratamondalnsec&hide_border=true&layout=compact" align="left" />  
-<img src="https://github-readme-stats.vercel.app/api?username=subratamondalnsec&show_icons=true&count_private=true&hide_border=true" align="center" />  
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=subratamondalnsec&" alt="subratamondalnsec" align="right" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subratamondalnsec&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" align="left" />  
+<img src="https://github-readme-stats.vercel.app/api?username=subratamondalnsec&theme=vue-dark&show_icons=true&count_private=true&hide_border=true" align="center" />  
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=subratamondalnsec&theme=vue-dark&" alt="subratamondalnsec" align="right" />
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/subrata24012005?ext=contest)
+![Leetcode Stats](https://leetcard.jacoblin.cool/subrata24012005)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=subratamondalnsec&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+
 
 ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=subratamondalnsec&limit=5&theme=vue-dark&combine_all_yearly_contributions=true)
 
 [![](https://visitcount.itsvg.in/api?id=subratamondalnsec&label=Profile%20Views&color=8&pretty=false)](https://visitcount.itsvg.in)
 
