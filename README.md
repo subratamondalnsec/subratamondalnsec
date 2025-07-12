@@ -20,10 +20,10 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/subrata-mondal-9085b828a/)
-[![TWITTER](https://img.shields.io/badge/TWITTER-%230077B5.svg?logo=twitter&logoColor=white)](https://x.com/Subrata7133)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/subrata24012005/)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=flat-square&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/subratamondal24/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/subrata-mondal-9085b828a/)
+[![TWITTER](https://img.shields.io/badge/TWITTER-%230077B5.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Subrata7133)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/subrata24012005/)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/subratamondal24/)
 
 
 # 💻 Tech Stack:
