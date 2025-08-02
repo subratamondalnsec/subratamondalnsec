@@ -74,6 +74,11 @@
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/subrata24012005)
 
+<h2> <img src="https://media.tenor.com/LSHKMiRdLggAAAAi/statistics-trending-up.gif" width="35px">  &nbsp;My GitHub History! 📈</h2>
+
+![3d-profile](profile-3d-contrib/profile-night-green.svg)
+
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=subratamondalnsec&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
