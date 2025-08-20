@@ -7,19 +7,24 @@
 # 💫 About Me:
 
 <h3 align="center">A passionate developer and problem-solver from India</h3>
-<img align="right" alt="Coding" width="400" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif">
+<br>
 
-- 🔭 I’m currently studying Engineering **(Department of Computer Science and Engineering)**
+<table style="border-collapse: collapse; border: none;">
+  <tr>
+    <td width="55%" valign="top" style="border: none;">
+      - 🔭 I’m currently pursuing <b>Bachelor of Engineering in Computer Science and Engineering</b>.<br><br>
+      - 🌱 I’m learning <b>Data Structures & Algorithms</b> and building skills as a <b>Full-Stack / MERN Stack Developer</b>.<br><br>
+      - 👯 I’m looking to collaborate on <b>innovative and exciting projects</b>.<br><br>
+      - 💬 Ask me about <b>Web Development, DSA, and Tech in general</b>.<br><br>
+      - 📫 Reach me at <b>subratamondal.cse2023@nsec.ac.in</b>.<br><br>
+      - ⚡ Fun fact: <b>I love solving complex problems—whether debugging code or cracking challenging algorithms, finding the solution is my thrill!</b>
+    </td>
+    <td width="45%" valign="top" style="border: none;">
+      <img src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif" alt="Coding" width="100%">
+    </td>
+  </tr>
+</table>
 
-- 🌱 I'm currently learning **data structures and algorithms**. I am a **Frontend-Devloper**.
-
-- 👯 I’m looking to collaborate on **exciting projects!**
-
-- 💬 Ask me about **Technology**
-
-- 📫 How to reach me **subratamondal.cse2023@nsec.ac.in**
-
-- ⚡ Fun fact **I love tackling complex problems like puzzles—whether it's debugging code or solving a tricky algorithm, the thrill of finding the solution keeps me going!**
 
 
 ## 🌐 Socials:
