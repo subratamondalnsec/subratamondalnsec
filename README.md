@@ -74,6 +74,11 @@
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
+<div align="center">
+
+![snake gif](https://github.com/subratamondalnsec/subratamondalnsec/blob/output/github-snake-dark.svg)
+
+</div>
 
 # 📊 GitHub Stats:
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subratamondalnsec&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" align="left" />  
