@@ -8,10 +8,14 @@ on:
   # Allow manual runs
   workflow_dispatch:
 
-  # Run on pushes to main branch
+  # Run when pushing to main branch
   push:
     branches:
       - main
+
+# 🔑 Important: give Actions permission to push to branches
+permissions:
+  contents: write
 
 jobs:
   generate:
@@ -35,7 +39,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      # Step 3: Deploy the generated files to the 'output' branch
+      # Step 3: Deploy to 'output' branch
       - name: Deploy to Output Branch
         uses: peaceiris/actions-gh-pages@v3
         with:
