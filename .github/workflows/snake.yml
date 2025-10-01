@@ -1,19 +1,13 @@
 name: Generate Snake Animation
 
 on:
-  # Run every day at midnight UTC
   schedule:
     - cron: "0 0 * * *"
-
-  # Allow manual runs
   workflow_dispatch:
-
-  # Run when pushing to main branch
   push:
     branches:
       - main
 
-# 🔑 Important: give Actions permission to push to branches
 permissions:
   contents: write
 
@@ -23,11 +17,9 @@ jobs:
     timeout-minutes: 10
 
     steps:
-      # Step 1: Checkout the repository
       - name: Checkout Repository
         uses: actions/checkout@v3
 
-      # Step 2: Generate the snake animations
       - name: Generate GitHub Contributions Snake Animations
         uses: Platane/snk@v3
         with:
@@ -35,11 +27,10 @@ jobs:
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
-            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9&animation_duration=40
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      # Step 3: Deploy to 'output' branch
       - name: Deploy to Output Branch
         uses: peaceiris/actions-gh-pages@v3
         with:
