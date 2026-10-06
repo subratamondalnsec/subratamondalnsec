@@ -128,38 +128,18 @@ I enjoy building practical applications with modern web technologies and continu
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </p>
 
-### 🧠 Core Competencies
-
-`Data Structures & Algorithms` • `Problem Solving` • `Object-Oriented Design` • `Debugging` • `Complexity Analysis` • `Algorithms`
-
 
 
 # 🏆 Achievements
 
 - 🥇 **Winner — Exathon 2025**  
-  Secured 1st rank among **100+ teams** as part of a 3-member team.
-
 - 🥈 **2nd Runner-Up — Smart Make-a-thon**  
-  Ranked among **200 teams** with a sustainable project.
-
 - 🥇 **Winner — HackSpire'25 UI/UX**  
-  Team **Code Kinetics** ranked 1st for *Kisan Mitra*.
-
 - 🥉 **3rd Place + Aptos Track Winner — CosmoHack1**  
-  Selected from **2500+ participants**.
-
-- 🥇 **Winner — Binary 2.0 Hackathon**  
-  Winner of the **Requestly Track** with *Second Brain*, an AI assistant for tasks.
-
-- 🏆 **TCS CodeVita Season 12**  
-  Ranked in the **Top 0.65%** with Global Rank **3172 / 400,000**.
-
-- 🔥 **LeetCode**  
-  Solved **700+ problems** with a **1518 rating** and a **260-day streak**.
-
-- 📚 **GeeksforGeeks**  
-  Solved **550+ problems**, achieved **Institute Rank 20**, with a **134-day streak**.
-
+- 🥇 **Winner Requestly Track — Binary 2.0 Hackathon**  
+- 🏆 **TCS CodeVita Season 12 Global Rank 3172**  
+- 🔥 **LeetCode 700+ problems with a 260-day streak**
+- 📚 **GeeksforGeeks 550+ problems achieved Institute Rank 20, with a 134-day streak**  
 ---
 
 # 🧩 Coding Profiles
@@ -202,10 +182,6 @@ I enjoy building practical applications with modern web technologies and continu
 
 </div>
 
----
-
-# 📈 My GitHub History
-
 <h2>
   <img src="https://media.tenor.com/LSHKMiRdLggAAAAi/statistics-trending-up.gif" width="35px">
   &nbsp;Contribution History
@@ -242,23 +218,6 @@ I enjoy building practical applications with modern web technologies and continu
 
 [![An image of @subratamondalnsec's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/subratamondalnsec)](https://holopin.io/@subratamondalnsec)
 
-
-
-
-### 🔝 Top Contributed Repo
-
-![](https://github-contributor-stats.vercel.app/api?username=subratamondalnsec&limit=6&theme=vue-dark&combine_all_yearly_contributions=true)
-
-
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=subratamondalnsec&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
 </p>
-
-<div align="center">
-
-### 🚀 Code • Build • Solve • Repeat
-
-<i>Always learning. Always building. Always improving.</i>
-
-</div>
